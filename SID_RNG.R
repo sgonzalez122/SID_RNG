@@ -9,8 +9,7 @@ rm(list = ls())  #Clear workspace
 
 #Read in Data
 library(readxl)
-Data <- read_excel("/Users/sgonzalez/Documents/a_Tasks_Experiments/aDDM_win_loss_lottery/Excel_Sheets/subject_demographics.xlsx")
-#Data <- read_excel("/Volumes/SAG/aDDM_win_loss_lottery/Excel_Sheets/subject_demographics.xlsx")
+Data <- read_excel("PATH TO EXCEL FILE")
 attach(Data)
 
 
