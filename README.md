@@ -1,6 +1,6 @@
 # SID_RNG
-
-- This program will read an excisting excel file documenting subject demographics, and randomly generate a new Subject ID based on the available SID's in the existing data set. 
+- This program will read in excisting subject ID's (SID) for an existing project document and generate a new randomly generated unique SID, 
+  based on the SID's that are already currently in use for a particular project. 
 
 # Instructions 
 - Download the R code and example excell file. 
