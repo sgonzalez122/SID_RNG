@@ -4,4 +4,4 @@
 
 # Instructions 
 - Download the R code and example excell file. 
-- Open the R script in R Studio and change the Pathway to wherever you downloaded the example Demographic Excel file. 
+- Open the R script in R Studio and change the Pathway to wherever you downloaded the example Excel file. 
